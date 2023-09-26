@@ -1,0 +1,292 @@
+.container{
+    margin: auto;
+    width: 1920px;
+  }
+  .allowfullscreen{
+    display: flex;
+  }
+  .one{
+    height: 911px;
+    top: 31px;
+    left: 155px;
+    width: 268px;
+  }
+  .one-icon{
+    width: 40px;
+    height: 33px;
+    margin-left: 30px;
+  }
+  .one-ul{
+    height: Hug (434px);
+    top: 113px;
+    left: 170px;
+    gap: 30px;
+    width: Hug (153px);
+  }
+  .one-li{
+    list-style: none;
+    padding-right: 40px;
+  }
+  .one-img{
+    padding-right: 10px;
+    margin-top: 10px;
+  }
+  .one-a{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: "Segoe UI";
+    color: black;
+    text-decoration: none;
+  }
+  .one-button{
+    padding: 1px 100px;
+    background-color: #1D9BF0;
+    border-radius: 55px;
+    border: 1px solid #1D9BF0;
+  }
+  .one-p{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: "Segoe UI";
+    color: white;
+    width: 51px;
+    height: 24px;
+  }
+  .brat{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 250px;
+  }
+
+  .me{
+  margin-bottom: 50px;
+  }
+  .one-tocka{
+    padding-top: 100px;
+  }
+
+.foricon{
+  display: flex;
+}
+
+.icon{
+  width: 20px;
+padding: 50px;
+border: 2px;
+angle: -180 deg;
+}
+.one-brat-span{
+  font-family: "Segoe UI";
+}
+.iconjon{
+  width: 910px;
+  height: 280px;
+}
+.smalldiv{
+  background-color: white;
+top: 387px;
+left: 1203px;
+border-radius: 50px;
+gap: 10px;
+width: 120px;
+height: 44px;
+border: 2px solid;
+padding-bottom: 30px;
+padding-top: -10px;
+}
+.two{
+  width: 910px;
+  border: 2px solid;;
+}
+.twogina{
+  margin-left: 300px;
+}
+.twogina-p{
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: "Segoe UI";
+  margin-left: 14px;
+  padding-top: 8px;
+}
+.mee{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  padding-left: 20px;
+}
+
+.about{
+  font-family: "Segoe UI";
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+.abbout{
+  font-family: "Segoe UI";
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #1DA1F2;
+transform: translate(155px);
+}
+
+.about-li{
+  display: flex;
+}
+
+.about-img{
+  padding-top: 12px;
+}
+
+.about-ul{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20px;
+}
+.about-p{
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: "Segoe UI";
+  color: black;
+}
+.about-p-p{
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: "Segoe UI";
+  color: #1DA1F2;
+}
+.spanjon{
+  font-family: "Segoe UI";
+font-size: 18px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+.spangina{
+font-family: Segoe UI;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+
+
+.umum{
+display: flex;
+justify-content: space-between;
+padding-left: 20px;
+padding-right: 20px;
+}
+.a{
+  font-family: "Segoe UI";
+font-size: 18px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+text-decoration: none;
+}
+.aa{
+  font-family: "Segoe UI";
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+text-decoration: none;
+}
+.forspan{
+  padding-left: 20px;
+}
+.forright{
+  padding-left: 20px;
+}
+.pin{
+  display: flex;
+  padding-left: 20px;
+}
+.pin-img{
+  width: 20px;
+  height: 20px;
+  padding-top: 15px;
+}
+.pin-p{
+  font-family: "Segoe UI";
+font-size: 16px;
+font-weight: 600;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: #536471;
+}
+.pinn{
+  font-family: "Segoe UI";
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+.pinned-span{
+  font-family: "Segoe UI";
+font-size: 20px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+padding-bottom: 40px;
+}
+.span-p{
+  font-family: "Segoe UI";
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+padding-left: 64px;
+}
+.pin-imgg{
+  width: 60px;
+  height: 60px;
+}
+.class{
+  padding-left: 64px;
+}
+
+
+.span-img{
+  padding-left: 64px;
+  width: 679px;
+  height: 453px;
+}
+.three{
+  padding-left: 200px;
+}
